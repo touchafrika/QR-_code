@@ -1,5 +1,5 @@
-.bin/
-.lib/
-.share/
+bin/
+lib/
+share/
 *cfg
 *png
